@@ -1,0 +1,25 @@
+header {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 50px;
+    color: black;
+    font-style: italic;
+    text-shadow: 2px 2px whitesmoke;
+}
+
+body {
+    background-color: burlywood;
+}
+
+image {
+    align-items: center;
+}
+
+h2, ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    text-shadow: whitesmoke;
+}
+
